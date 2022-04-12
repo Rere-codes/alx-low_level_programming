@@ -19,7 +19,7 @@ int print_sign(int n)
 	}
 	else
 	{
-		test - -1;
+		test = -1;
 		_putchar('_');
 	}
-	retutn (test);
+	return (test);
