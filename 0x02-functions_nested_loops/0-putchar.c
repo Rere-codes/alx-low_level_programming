@@ -2,8 +2,8 @@
 
 /**
  * main - Entry point
- *
- * RETURN nothing, return void
+ * Description: print _putchar in a new line
+ * Return: nothing, return void
  */
 int main(void)
 {
